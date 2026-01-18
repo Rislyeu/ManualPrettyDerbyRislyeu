@@ -1,0 +1,52 @@
+Potential Win Conditions if able:
+{
+    "name": "3 Star Uma Career Wins: 50%",
+    "region": "3 Star Uma Races",
+    "victory": true,
+    "requires": "|@3 Star Uma Career Wins:half|"
+  },
+  {
+    "name": "3 Star Uma Career Wins: 75%",
+    "region": "3 Star Uma Races",
+    "victory": true,
+    "requires": "|@3 Star Uma Career Wins:75%|"
+  },
+When updating, Support cards simply need copy and paste the same type (R,SR,SSR) Then Name as "'Uma Name' Rarity (Aptitude)"
+For new Umas make an Item, a career win item (if 3 star) and locations based on their career goals (Note that costumes *should* have the same goals as their base umas and can be copy and pasted with just extra words added, see Oguri Cap vs. Oguri Cap Christmas.  Also a new category that is the Uma's name in categories as well as a yaml option for that category name in options.
+All items, categories, and options are ALPHABETICAL so please put them in the right place...
+    {
+      "name": "Progressive Support Card Slot 1 (Speed)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 2 (Stamina)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 3 (Power)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 4 (Guts)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 5 (Wit)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 6 (Pal)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 3,
+      "useful": true
+    },

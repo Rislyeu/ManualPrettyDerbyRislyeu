@@ -1,0 +1,180 @@
+{   
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+
+    "Agnes Digital": {
+        "yaml_option": ["Agnes_Digital"],
+        "hidden": true
+    },
+    "Air Groove Wedding": {
+        "yaml_option": ["Air_Groove_Wedding"],
+        "hidden": true
+    },
+    "Biwa Hayahide": {
+        "yaml_option": ["Biwa_Hayahide"],
+        "hidden": true
+    },
+    "Biwa Hayahide Christmas": {
+        "yaml_option": ["Biwa_Hayahide_Christmas"],
+        "hidden": true
+    },
+    "Curren Chan": {
+        "yaml_option": ["Curren_Chan"],
+        "hidden": true
+    },
+    "Eishin Flash": {
+        "yaml_option": ["Eishin_Flash"],
+        "hidden": true
+    },
+    "El Condor Pasa Fantasy": {
+        "yaml_option": ["El_Condor_Pasa_Fantasy"],
+        "hidden": true
+    },
+    "Fine Motion": {
+        "yaml_option": ["Fine_Motion"],
+        "hidden": true
+    },
+    "Fuji Kiseki": {
+        "yaml_option": ["Fuji_Kiseki"],
+        "hidden": true
+    },
+    "Gold City": {
+        "yaml_option": ["Gold_City"],
+        "hidden": true
+    },
+    "Gold City Festival": {
+        "yaml_option": ["Gold_City_Festival"],
+        "hidden": true
+    },
+    "Grass Wonder Fantasy": {
+        "yaml_option": ["Grass_Wonder_Fantasy"],
+        "hidden": true
+    },
+    "Hishi Akebono": {
+        "yaml_option": ["Hishi_Akebono"],
+        "hidden": true
+    },
+    "Hishi Amazon": {
+        "yaml_option": ["Hishi_Amazon"],
+        "hidden": true
+    },
+    "Kawakami Princess": {
+        "yaml_option": ["Kawakami_Princess"],
+        "hidden": true
+    },
+    "Manhattan Cafe": {
+        "yaml_option": ["Manhattan_Cafe"],
+        "hidden": true
+    },
+    "Maruzensky": {
+        "yaml_option": ["Maruzensky"],
+        "hidden": true
+    },
+    "Maruzensky Summer": {
+        "yaml_option": ["Maruzensky_Summer"],
+        "hidden": true
+    },
+    "Matikanefukukitaru Lucky Tidings": {
+        "yaml_option": ["Matikanefukukitaru_Lucky_Tidings"],
+        "hidden": true
+    },
+    "Mayano Top Gun Wedding": {
+        "yaml_option": ["Mayano_Top_Gun_Wedding"],
+        "hidden": true
+    },
+    "Meisho Doto": {
+        "yaml_option": ["Meisho_Doto"],
+        "hidden": true
+    },
+    "Mejiro Dober": {
+        "yaml_option": ["Mejiro_Dober"],
+        "hidden": true
+    },
+    "Mejiro McQueen": {
+        "yaml_option": ["Mejiro_McQueen"],
+        "hidden": true
+    },
+    "Mejiro McQueen Anime": {
+        "yaml_option": ["Mejiro_McQueen_Anime"],
+        "hidden": true
+    },
+    "Mihono Bourbon": {
+        "yaml_option": ["Mihono_Bourbon"],
+        "hidden": true
+    },
+    "Narita Brian": {
+        "yaml_option": ["Narita_Brian"],
+        "hidden": true
+    },
+    "Narita Taishin": {
+        "yaml_option": ["Narita_Taishin"],
+        "hidden": true
+    },
+    "Oguri Cap": {
+        "yaml_option": ["Oguri_Cap"],
+        "hidden": true
+    },
+    "Oguri Cap Christmas": {
+        "yaml_option": ["Oguri_Cap_Christmas"],
+        "hidden": true
+    },
+    "Rice Shower": {
+        "yaml_option": ["Rice_Shower"],
+        "hidden": true
+    },
+    "Rice Shower Halloween": {
+        "yaml_option": ["Rice_Shower_Halloween"],
+        "hidden": true
+    },
+    "Seiun Sky": {
+        "yaml_option": ["Seiun_Sky"],
+        "hidden": true
+    },
+    "Silence Suzuka": {
+        "yaml_option": ["Silence_Suzuka"],
+        "hidden": true
+    },
+    "Smart Falcon": {
+        "yaml_option": ["Smart_Falcon"],
+        "hidden": true
+    },
+    "Special Week": {
+        "yaml_option": ["Special_Week"],
+        "hidden": true
+    },
+    "Special Week Summer": {
+        "yaml_option": ["Special_Week_Summer"],
+        "hidden": true
+    },
+    "Super Creek Halloween": {
+        "yaml_option": ["Super_Creek_Halloween"],
+        "hidden": true
+    },
+    "Symboli Rudolf": {
+        "yaml_option": ["Symboli_Rudolf"],
+        "hidden": true
+    },
+    "Symboli Rudolf Festival": {
+        "yaml_option": ["Symboli_Rudolf_Festival"],
+        "hidden": true
+    },
+    "Taiki Shuttle": {
+        "yaml_option": ["Taiki_Shuttle"],
+        "hidden": true
+    },
+    "Tokai Teio": {
+        "yaml_option": ["Tokai_Teio"],
+        "hidden": true
+    },
+    "Tokai Teio Anime": {
+        "yaml_option": ["Tokai_Teio_Anime"],
+        "hidden": true
+    },
+    "TM Opera O": {
+        "yaml_option": ["TM_Opera_O"],
+        "hidden": true
+    },
+    "Tosen Jordan": {
+        "yaml_option": ["Tosen_Jordan"],
+        "hidden": true
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+
+  "game": "UmamusumePrettyDerby",
+  "creator": "Rislyeu",
+  "filler_item_name": "1 Skill Point",
+  "starting_items": [
+    {"item_categories": ["Umas 1* Beginner"], "random": 2},
+    {"item_categories": ["R Support Cards"], "random": 10},
+    {"items": ["1* Beginner Uma Careers"]},
+    {"items": ["URA Scenario"]}
+  ]
+}

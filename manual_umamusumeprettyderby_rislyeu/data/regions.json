@@ -1,0 +1,24 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+
+    "1* Beginner Uma Races": {
+      "starting": true,
+      "connects_to": ["1* Expert Uma Races"],
+      "requires": []
+    },
+    "1* Expert Uma Races": {
+      "connects_to": ["2* Beginner Uma Races"],
+      "requires": "|@Umas 1* Expert:1| AND |1* Expert Uma Careers|"
+    },
+    "2* Beginner Uma Races": {
+      "connects_to": ["2* Expert Uma Races"],
+      "requires": "|@Umas 2* Beginner:1| AND |2* Beginner Uma Careers|"
+    },
+    "2* Expert Uma Races": {
+      "connects_to": ["3* Uma Races"],
+      "requires": "|@Umas 2* Expert:1| AND |2* Expert Uma Careers| AND |@SSR Support Cards:1|"
+      },
+    "3* Uma Races": {
+      "requires": "|@Umas 3*:1| AND |3* Uma Careers| AND |@SSR Support Cards:2| AND |Unity Cup Scenario|"
+    }
+}

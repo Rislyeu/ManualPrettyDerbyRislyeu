@@ -1,0 +1,337 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "_goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "_death_link": {
+            "default": false
+        },
+        "_filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "Agnes_Digital": {
+            "description": ["Toggle on if user owns Agnes Digital"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Air_Groove_Wedding": {
+            "description": ["Toggle on if user owns Air Groove Wedding"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Biwa_Hayahide": {
+            "description": ["Toggle on if user owns Biwa Hayahide"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Biwa_Hayahide_Christmas": {
+            "description": ["Toggle on if user owns Biwa Hayahide Christmas"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Curren_Chan":{
+            "description": ["Toggle on if user owns Curren Chan"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Eishin_Flash": {
+            "description": ["Toggle on if user owns Eishin Flash"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "El_Condor_Pasa_Fantasy": {
+            "description": ["Toggle on if user owns El Condor Pasa Fantasy"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Fine_Motion": {
+            "description": ["Toggle on if user owns Fine Motion"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Fuji_Kiseki": {
+            "description": ["Toggle on if user owns Fuji Kiseki"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Gold_City": {
+            "description": ["Toggle on if user owns Gold City"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Gold_City_Festival": {
+            "description": ["Toggle on if user owns Gold City Festival"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Grass_Wonder_Fantasy": {
+            "description": ["Toggle on if user owns Grass Wonder Fantasy"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Hishi_Akebono": {
+            "description": ["Toggle on if user owns Hishi Akebono"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Hishi_Amazon": {
+            "description": ["Toggle on if user owns Hishi Amazon"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Kawakami_Princess": {
+            "description": ["Toggle on if user owns Kawakami Princess"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Manhattan_Cafe": {
+            "description": ["Toggle on if user owns Manhattan Cafe"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Maruzensky": {
+            "description": ["Toggle on if user owns Maruzensky"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Maruzensky_Summer": {
+            "description": ["Toggle on if user owns Maruzensky Summer"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Matikanefukukitaru_Lucky_Tidings": {
+            "description": ["Toggle on if user owns Matikanefukukitaru Lucky Tidings"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mayano_Top_Gun_Wedding": {
+            "description": ["Toggle on if user owns Mayano Top Gun Wedding"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Meisho_Doto": {
+            "description": ["Toggle on if user owns Meisho Doto"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mejiro_Dober": {
+            "description": ["Toggle on if user owns Mejiro Dober"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mejiro_McQueen":{
+            "description": ["Toggle on if user owns Mejiro McQueen"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mejiro_McQueen_Anime": {
+            "description": ["Toggle on if user owns Mejiro McQueen Anime"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mihono_Bourbon": {
+            "description": ["Toggle on if user owns Mihono Bourbon"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Narita_Brian": {
+            "description": ["Toggle on if user owns Narita Brian"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Narita_Taishin": {
+            "description": ["Toggle on if user owns Narita Taishin"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Oguri_Cap": {
+            "description": ["Toggle on if user owns Oguri Cap"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Oguri_Cap_Christmas": {
+            "description": ["Toggle on if user owns Oguri Cap Christmas"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Rice_Shower": {
+            "description": ["Toggle on if user owns Rice Shower"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Rice_Shower_Halloween": {
+            "description": ["Toggle on if user owns Rice Shower Halloween"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Seiun_Sky": {
+            "description": ["Toggle on if user owns Seiun Sky"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Silence_Suzuka": {
+            "description": ["Toggle on if user owns Silence Suzuka"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Smart_Falcon": {
+            "description": ["Toggle on if user owns Smart Falcon"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Special_Week": {
+            "description": ["Toggle on if user owns Special Week"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Special_Week_Summer": {
+            "description": ["Toggle on if user owns Special Week Summer"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Super_Creek_Halloween": {
+            "description": ["Toggle on if user owns Super Creek Halloween"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Symboli_Rudolf": {
+            "description": ["Toggle on if user owns Symboli Rudolf"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Symboli_Rudolf_Festival": {
+            "description": ["Toggle on if user owns Symboli Rudolf Festival"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Taiki_Shuttle": {
+            "description": ["Toggle on if user owns Taiki Shuttle"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Tokai_Teio_Anime": {
+            "description": ["Toggle on if user owns Tokai Teio Anime"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Tokai_Teio": {
+            "description": ["Toggle on if user owns Tokai Teio"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Tosen_Jordan": {
+            "description": ["Toggle on if user owns Tosen Jordan"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "TM_Opera_O": {
+            "description": ["Toggle on if user owns TM Opera O"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "_Example_Choice":{
+            "type": "Choice",
+            "description": [
+                "This is a Choice",
+                "Let the user pick from a list of values",
+                "allow_custom_value let a player define their own text value",
+                "Currently the only use for Choice in Manual outside of hooks is the goal"
+            ],
+            "values": {
+                "start":0,
+                "test":1
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Example Options"
+        },
+        "_Example_Range":{
+            "type": "Range",
+            "description": [
+                "This is a Range",
+                "Allow the player to specify a value between 'start' and 'end'",
+                "if you include a \"values\" you can define the label for certain values",
+                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 10,
+            "values": {"example": 2},
+            "group": "Example Options"
+        },
+
+        "_DLC_enabled":{
+            "display_name": "DLC Enabled",
+            "description": "Is the Dlc enabled?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        }
+    }
+
+}

@@ -1,0 +1,1716 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+
+    {
+      "name": "Agnes Tachyon",
+      "category": ["Umas 1* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Haru Urara",
+      "category": ["Umas 1* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Nice Nature",
+      "category": ["Umas 1* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "category": ["Umas 1* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "King Halo",
+      "category": ["Umas 1* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "category": ["Umas 1* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Ryan",
+      "category": ["Umas 1* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Winning Ticket",
+      "category": ["Umas 1* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Air Groove",
+      "category": ["Umas 2* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "El Condor Pasa",
+      "category": ["Umas 2* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mayano Top Gun",
+      "category": ["Umas 2* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Vodka",
+      "category": ["Umas 2* Beginner"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "category": ["Umas 2* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold Ship",
+      "category": ["Umas 2* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Grass Wonder",
+      "category": ["Umas 2* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Super Creek",
+      "category": ["Umas 2* Expert"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Agnes Digital",
+      "category": ["Umas 3*", "Agnes Digital"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Air Groove Wedding",
+      "category": ["Umas 3*", "Air Groove Wedding"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Biwa Hayahide",
+      "category": ["Umas 3*", "Biwa Hayahide"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Biwa Hayahide Christmas",
+      "category": ["Umas 3*", "Biwa Hayahide Christmas"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Curren Chan",
+      "category": ["Umas 3*", "Curren Chan"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Eishin Flash",
+      "category": ["Umas 3*", "Eishin Flash"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "El Condor Pasa Fantasy",
+      "category": ["Umas 3*", "El Condor Pasa Fantasy"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Fine Motion",
+      "category": ["Umas 3*", "Fine Motion"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Fuji Kiseki",
+      "category": ["Umas 3*", "Fuji Kiseki"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold City",
+      "category": ["Umas 3*", "Gold City"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold City Festival",
+      "category": ["Umas 3*", "Gold City Festival"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Grass Wonder Fantasy",
+      "category": ["Umas 3*", "Grass Wonder Fantasy"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Hishi Akebono",
+      "category": ["Umas 3*", "Hishi Akebono"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Hishi Amazon",
+      "category": ["Umas 3*", "Hishi Amazon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kawakami Princess",
+      "category": ["Umas 3*", "Kawakami Princess"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Manhattan Cafe",
+      "category": ["Umas 3*", "Manhattan Cafe"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Maruzensky",
+      "category": ["Umas 3*", "Maruzensky"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Maruzensky Summer",
+      "category": ["Umas 3*", "Maruzensky Summer"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Matikanefukukitaru Lucky Tidings",
+      "category": ["Umas 3*", "Matikanefukukitaru Lucky Tidings"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mayano Top Gun Wedding",
+      "category": ["Umas 3*", "Mayano Top Gun Wedding"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Meisho Doto",
+      "category": ["Umas 3*", "Meisho Doto"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Dober",
+      "category": ["Umas 3*", "Mejiro Dober"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro McQueen",
+      "category": ["Umas 3*", "Mejiro McQueen"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro McQueen Anime",
+      "category": ["Umas 3*", "Mejiro McQueen Anime"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mihono Bourbon",
+      "category": ["Umas 3*", "Mihono Bourbon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Brian",
+      "category": ["Umas 3*", "Narita Brian"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Taishin",
+      "category": ["Umas 3*", "Narita Taishin"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Oguri Cap",
+      "category": ["Umas 3*", "Oguri Cap"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Oguri Cap Christmas",
+      "category": ["Umas 3*", "Oguri Cap Christmas"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower",
+      "category": ["Umas 3*", "Rice Shower"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower Halloween",
+      "category": ["Umas 3*", "Rice Shower Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Seiun Sky",
+      "category": ["Umas 3*", "Seiun Sky"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Silence Suzuka",
+      "category": ["Umas 3*", "Silence Suzuka"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Smart Falcon",
+      "category": ["Umas 3*", "Smart Falcon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week",
+      "category": ["Umas 3*", "Special Week"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week Summer",
+      "category": ["Umas 3*", "Special Week Summer"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Super Creek Halloween",
+      "category": ["Umas 3*", "Super Creek Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Symboli Rudolf",
+      "category": ["Umas 3*", "Symboli Rudolf"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Symboli Rudolf Festival",
+      "category": ["Umas 3*", "Symboli Rudolf Festival"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Taiki Shuttle",
+      "category": ["Umas 3*", "Taiki Shuttle"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tokai Teio",
+      "category": ["Umas 3*", "Tokai Teio"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tokai Teio Anime",
+      "category": ["Umas 3*", "Tokai Teio Anime"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "TM Opera O",
+      "category": ["Umas 3*", "TM Opera O"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tosen Jordan",
+      "category": ["Umas 3*", "Tosen Jordan"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Agnes Digital Career Win",
+      "category": ["Career Wins 3* Umas", "Agnes Digital"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Air Groove Wedding Career Win",
+      "category": ["Career Wins 3* Umas", "Air Groove Wedding"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Biwa Hayahide Career Win",
+      "category": ["Career Wins 3* Umas", "Biwa Hayahide"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Biwa Hayahide Christmas Career Win",
+      "category": ["Career Wins 3* Umas", "Biwa Hayahide Christmas"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Curren Chan Career Win",
+      "category": ["Career Wins 3* Umas", "Curren Chan"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Eishin Flash Career Win",
+      "category": ["Career Wins 3* Umas", "Eishin Flash"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "El Condor Pasa Fantasy Career Win",
+      "category": ["Career Wins 3* Umas", "El Condor Pasa Fantasy"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Fine Motion Career Win",
+      "category": ["Career Wins 3* Umas", "Fine Motion"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Fuji Kiseki Career Win",
+      "category": ["Career Wins 3* Umas", "Fuji Kiseki"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold City Career Win",
+      "category": ["Career Wins 3* Umas", "Gold City"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold City Festival Career Win",
+      "category": ["Career Wins 3* Umas", "Gold City Festival"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Grass Wonder Fantasy Career Win",
+      "category": ["Career Wins 3* Umas", "Grass Wonder Fantasy"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Hishi Akebono Career Win",
+      "category": ["Career Wins 3* Umas", "Hishi Akebono"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Hishi Amazon Career Win",
+      "category": ["Career Wins 3* Umas", "Hishi Amazon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kawakami Princess Career Win",
+      "category": ["Career Wins 3* Umas", "Kawakami Princess"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Manhattan Cafe Career Win",
+      "category": ["Career Wins 3* Umas", "Manhattan Cafe"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Maruzensky Career Win",
+      "category": ["Career Wins 3* Umas", "Maruzensky"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Maruzensky Summer Career Win",
+      "category": ["Career Wins 3* Umas", "Maruzensky Summer"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Matikanefukukitaru Lucky Tidings Career Win",
+      "category": ["Career Wins 3* Umas", "Matikanefukukitaru Lucky Tidings"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mayano Top Gun Wedding Career Win",
+      "category": ["Career Wins 3* Umas", "Mayano Top Gun Wedding"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Meisho Doto Career Win",
+      "category": ["Career Wins 3* Umas", "Meisho Doto"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Dober Career Win",
+      "category": ["Career Wins 3* Umas", "Mejiro Dober"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro McQueen Career Win",
+      "category": ["Career Wins 3* Umas", "Mejiro McQueen"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro McQueen Anime Career Win",
+      "category": ["Career Wins 3* Umas", "Mejiro McQueen Anime"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mihono Bourbon Career Win",
+      "category": ["Career Wins 3* Umas", "Mihono Bourbon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Brian Career Win",
+      "category": ["Career Wins 3* Umas", "Narita Brian"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Taishin Career Win",
+      "category": ["Career Wins 3* Umas", "Narita Taishin"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Oguri Cap Career Win",
+      "category": ["Career Wins 3* Umas", "Oguri Cap"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Oguri Cap Christmas Career Win",
+      "category": ["Career Wins 3* Umas", "Oguri Cap Christmas"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower Career Win",
+      "category": ["Career Wins 3* Umas", "Rice Shower"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower Halloween Career Win",
+      "category": ["Career Wins 3* Umas", "Rice Shower Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Seiun Sky Career Win",
+      "category": ["Career Wins 3* Umas", "Seiun Sky"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Silence Suzuka Career Win",
+      "category": ["Career Wins 3* Umas", "Silence Suzuka"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Smart Falcon Career Win",
+      "category": ["Career Wins 3* Umas", "Smart Falcon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week Career Win",
+      "category": ["Career Wins 3* Umas", "Special Week"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week Summer Career Win",
+      "category": ["Career Wins 3* Umas", "Special Week Summer"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Super Creek Halloween Career Win",
+      "category": ["Career Wins 3* Umas", "Super Creek Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Symboli Rudolf Career Win",
+      "category": ["Career Wins 3* Umas", "Symboli Rudolf"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Symboli Rudolf Festival Career Win",
+      "category": ["Career Wins 3* Umas", "Symboli Rudolf Festival"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Taiki Shuttle Career Win",
+      "category": ["Career Wins 3* Umas", "Taiki Shuttle"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tokai Teio Career Win",
+      "category": ["Career Wins 3* Umas", "Tokai Teio"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tokai Teio Anime Career Win",
+      "category": ["Career Wins 3* Umas", "Tokai Teio Anime"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tosen Jordan Career Win",
+      "category": ["Career Wins 3* Umas", "Tosen Jordan"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "TM Opera O Career Win",
+      "category": ["Career Wins 3* Umas", "TM Opera O"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "1* Beginner Uma Careers",
+      "category": ["Unlocked Career Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "1* Expert Uma Careers",
+      "category": ["Unlocked Career Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "2* Beginner Uma Careers",
+      "category": ["Unlocked Career Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "2* Expert Uma Careers",
+      "category": ["Unlocked Career Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "3* Uma Careers",
+      "category": ["Unlocked Career Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "URA Scenario",
+      "category": ["Unlocked Scenario Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Unity Cup Scenario",
+      "category": ["Unlocked Scenario Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Progressive Allow Daily Guest Borrow",
+      "category": ["Luxury"],
+      "count": 3,
+      "useful": true
+    },
+    {
+      "name": "Progressive Alarm Clock Allowance",
+      "category": ["Luxury"],
+      "count": 3,
+      "useful": true
+    },
+    {
+      "name": "65 Skill Points",
+      "category": ["Skill Points"],
+      "count": 20,
+      "useful": true
+    },
+    {
+      "name": "Biko Pegasus R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Eishin Flash R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Gold City R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Kawakami Princess R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "King Halo R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Kitasan Black R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Maruzensky R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Narita Brian R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Narita Taishin R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Nishino Flower R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Sakura Bakushin O R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Shinko Windy R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Silence Suzuka R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Sweep Tosho R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Taiki Shuttle R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Tokai Teio R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Twin Turbo R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Gold Ship R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Manhattan Cafe R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mayano Top Gun R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro McQueen R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Nakayama Festa R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Rice Shower R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sakura Chiyono O R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Satono Diamond R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Seiun Sky R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Super Creek R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tamamo Cross R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "TM Opera O R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tosen Jordan R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Zenno Rob Roy R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Agnes Digital R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bamboo Memory R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Biwa Hayahide R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Daitaku Helios R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "El Condor Pasa R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Hishi Amazon R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Inari One R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro Ryan R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mihono Bourbon R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Oguri Cap R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Smart Falcon R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Vodka R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Yaeno Muteki R (Power)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Air Groove R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Grass Wonder R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Haru Urara R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Hishi Akebono R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Ines Fujin R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Matikanetannhauser R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Meisho Doto R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro Palmer R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Nice Nature R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Seeking the Pearl R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sirius Symboli R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Special Week R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Winning Ticket R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Yukino Bijin R (Guts)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Agnes Tachyon R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Air Shakur R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Curren Chan R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Daiwa Scarlet R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Fine Motion R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Fuji Kiseki R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Ikuno Dictus R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Marvelous Sunday R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Matikanefukukitaru R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro Ardan R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro Dober R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Symboli Rudolf R (Wit)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Aoi Kiryuin R (Pal)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Riko Kashimoto R (Pal)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tazuna Hayakawa R (Pal)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Eishin Flash SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "King Halo SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Narita Taishin SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Shinko Windy SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Sweep Tosho SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Vodka SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Manhattan Cafe SR (Stamina)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mayano Top Gun SR (Stamina)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Tosen Jordan SR (Stamina)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Zenno Rob Roy SR (Stamina)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Agnes Digital SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Biwa Hayahide SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Daitaku Helios SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Fine Motion SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Hishi Amazon SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Inari One SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mejiro Ryan SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mihono Bourbon SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Nishino Flower SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Air Groove SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Meisho Doto SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Nice Nature SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Seeking the Pearl SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Sirius Symboli SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Yukino Bijin SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Agnes Tachyon SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Daiwa Scarlet SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Fuji Kiseki SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Ikuno Dictus SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Marvelous Sunday SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Matikanefukukitaru SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mejiro Ardan SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mejiro Dober SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Nice Nature SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Aoi Kiryuin SR (Pal)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Biko Pegasus SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold City SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold Ship SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kawakami Princess SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kitasan Black SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mayano Top Gun SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Brian SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Nishino Flower SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Bakushin O SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Silence Suzuka SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sweep Tosho SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tokai Teio SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Twin Turbo SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Zenno Rob Roy SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Gold Ship SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Manhattan Cafe SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro McQueen SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Nakayama Festa SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Brian SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Chiyono O SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Satono Diamond SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Seiun Sky SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Silence Suzuka SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Super Creek SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tamamo Cross SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Winning Ticket SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Bamboo Memory SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Daitaku Helios SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Daiwa Scarlet SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "El Condor Pasa SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "King Halo SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Marvelous Sunday SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Oguri Cap SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Rice Shower SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Smart Falcon SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tamamo Cross SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Vodka SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Winning Ticket SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Yaeno Muteki SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Grass Wonder SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Haru Urara SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Hishi Akebono SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Ikuno Dictus SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Ines Fujin SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Matikanetannhauser SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Palmer SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Ryan SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Special Week SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Winning Ticket SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Yukino Bijin SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Air Shakur SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Curren Chan SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Fine Motion SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Dober SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mihono Bourbon SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Taishin SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Nice Nature SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Seiun Sky SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Yukino Bijin SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Riko Kashimoto SSR (Pal)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Tazuna Hayakawa SSR (Pal)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    }
+]
+}
