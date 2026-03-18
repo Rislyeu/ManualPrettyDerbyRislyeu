@@ -63,3 +63,5 @@ Fixes:
 Changelog v0.2.1 I forgot Tannhauser edition
 
 	Added Matikanetannhauser and her race locations, and fixed some typos and race names for other 2*s.
+
+	Added Mejiro Bright SSR (Stamina), Satono Diamond SSR (Wit), Special Week SR (Power), Ines Fujin SR (Wit), Tamamo Cross SR (Guts)

@@ -1389,6 +1389,12 @@
       "useful": true
     },
     {
+      "name": "Special Week SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
       "name": "Admire Vega SR (Guts)",
       "category": ["SR Support Cards"],
       "count": 1,
@@ -1425,6 +1431,12 @@
       "useful": true
     },
     {
+      "name": "Tamamo Cross SR (Guts)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
       "name": "Yukino Bijin SR (Guts)",
       "category": ["SR Support Cards"],
       "count": 1,
@@ -1450,6 +1462,12 @@
     },
     {
       "name": "Ikuno Dictus SR (Wit)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Ines Fujin SR (Wit)",
       "category": ["SR Support Cards"],
       "count": 1,
       "useful": true
@@ -1618,6 +1636,12 @@
     },
     {
       "name": "Mejiro McQueen SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Bright SSR (Stamina)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
@@ -1894,6 +1918,12 @@
     },
     {
       "name": "Nishino Flower SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Satono Diamond SSR (Wit)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
