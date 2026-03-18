@@ -3692,7 +3692,7 @@
       "requires": ["Sakura Chiyono O"]
     },
     {
-      "name": "Sakura Chiyono O: Win the Tenno Sho (Autumn)",
+      "name": "Sakura Chiyono O: Win the Tenno Sho (Autumn) (Classic)",
       "region": "3* Uma Races",
       "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
       "requires": ["Sakura Chiyono O"]
@@ -3854,62 +3854,62 @@
       "name": "Mejiro Arden: Run in Make Debut",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Earn 6000 Fans",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Aoba Sho",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Japanese Derby",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Kikuka Sho",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Osaka Hai",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Takarazuka Kinen",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Mainichi Okan",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Win the Tenno Sho (Autumn)",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"]
+      "requires": ["Mejiro Arden"]
     },
     {
       "name": "Mejiro Arden: Career Win",
       "region": "3* Uma Races",
       "category": ["Mejiro Arden", "Mejiro Arden Races"],
-      "requires": ["Mejiro Ardan"],
-      "place_item": ["Mejiro Ardan Career Win"]
+      "requires": ["Mejiro Arden"],
+      "place_item": ["Mejiro Arden Career Win"]
     },
     {
       "name": "Admire Vega: Run in Make Debut",
