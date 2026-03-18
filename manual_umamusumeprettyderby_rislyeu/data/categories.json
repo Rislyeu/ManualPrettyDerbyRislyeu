@@ -1,6 +1,10 @@
 {   
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-
+    
+    "Admire Vega": {
+        "yaml_option": ["Admire_Vega"],
+        "hidden": true
+    },
     "Agnes Digital": {
         "yaml_option": ["Agnes_Digital"],
         "hidden": true
@@ -23,6 +27,10 @@
     },
     "Eishin Flash": {
         "yaml_option": ["Eishin_Flash"],
+        "hidden": true
+    },
+    "Eishin Flash Valentine": {
+        "yaml_option": ["Eishin_Flash_Valentine"],
         "hidden": true
     },
     "El Condor Pasa Fantasy": {
@@ -49,6 +57,10 @@
         "yaml_option": ["Grass_Wonder_Fantasy"],
         "hidden": true
     },
+    "Haru Urara New Year": {
+        "yaml_option": ["Haru_Urara_New_Year"],
+        "hidden": true
+    },
     "Hishi Akebono": {
         "yaml_option": ["Hishi_Akebono"],
         "hidden": true
@@ -59,6 +71,10 @@
     },
     "Kawakami Princess": {
         "yaml_option": ["Kawakami_Princess"],
+        "hidden": true
+    },
+    "Kitasan Black": {
+        "yaml_option": ["Kitasan_Black"],
         "hidden": true
     },
     "Manhattan Cafe": {
@@ -85,6 +101,10 @@
         "yaml_option": ["Meisho_Doto"],
         "hidden": true
     },
+    "Mejiro Arden": {
+        "yaml_option": ["Mejiro_Arden"],
+        "hidden": true
+    },
     "Mejiro Dober": {
         "yaml_option": ["Mejiro_Dober"],
         "hidden": true
@@ -99,6 +119,10 @@
     },
     "Mihono Bourbon": {
         "yaml_option": ["Mihono_Bourbon"],
+        "hidden": true
+    },
+    "Mihono Bourbon Valentine": {
+        "yaml_option": ["Mihono_Bourbon_Valentine"],
         "hidden": true
     },
     "Narita Brian": {
@@ -123,6 +147,14 @@
     },
     "Rice Shower Halloween": {
         "yaml_option": ["Rice_Shower_Halloween"],
+        "hidden": true
+    },
+    "Sakura Chiyono O": {
+        "yaml_option": ["Sakura_Chiyono_O"],
+        "hidden": true
+    },
+    "Satono Diamond": {
+        "yaml_option": ["Satono_Diamond"],
         "hidden": true
     },
     "Seiun Sky": {
@@ -161,16 +193,24 @@
         "yaml_option": ["Taiki_Shuttle"],
         "hidden": true
     },
+    "Tamamo Cross": {
+        "yaml_option": ["Tamamo_Cross"],
+        "hidden": true
+    },
+    "TM Opera O": {
+        "yaml_option": ["TM_Opera_O"],
+        "hidden": true
+    },
+    "TM Opera O New Year": {
+        "yaml_option": ["TM_Opera_O_New_Year"],
+        "hidden": true
+    },
     "Tokai Teio": {
         "yaml_option": ["Tokai_Teio"],
         "hidden": true
     },
     "Tokai Teio Anime": {
         "yaml_option": ["Tokai_Teio_Anime"],
-        "hidden": true
-    },
-    "TM Opera O": {
-        "yaml_option": ["TM_Opera_O"],
         "hidden": true
     },
     "Tosen Jordan": {

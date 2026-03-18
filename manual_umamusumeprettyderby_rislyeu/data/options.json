@@ -26,6 +26,12 @@
             "type": "Toggle",
             "default": true
         },
+        "Admire_Vega": {
+            "description": ["Toggle on if user owns Admire Vega"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "Agnes_Digital": {
             "description": ["Toggle on if user owns Agnes Digital"],
             "type": "Toggle",
@@ -58,6 +64,12 @@
         },
         "Eishin_Flash": {
             "description": ["Toggle on if user owns Eishin Flash"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Eishin_Flash_Valentine": {
+            "description": ["Toggle on if user owns Eishin Flash Valentine"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
@@ -98,6 +110,12 @@
             "default": false,
             "group": "Game Options"
         },
+        "Haru_Urara_New_Year": {
+            "description": ["Toggle on if user owns Haru Urara New Year"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "Hishi_Akebono": {
             "description": ["Toggle on if user owns Hishi Akebono"],
             "type": "Toggle",
@@ -112,6 +130,12 @@
         },
         "Kawakami_Princess": {
             "description": ["Toggle on if user owns Kawakami Princess"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Kitasan_Black": {
+            "description": ["Toggle on if user owns Kitasan Black"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
@@ -152,6 +176,12 @@
             "default": false,
             "group": "Game Options"
         },
+        "Mejiro_Arden": {
+            "description": ["Toggle on if user owns Mejiro Arden"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "Mejiro_Dober": {
             "description": ["Toggle on if user owns Mejiro Dober"],
             "type": "Toggle",
@@ -172,6 +202,12 @@
         },
         "Mihono_Bourbon": {
             "description": ["Toggle on if user owns Mihono Bourbon"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Mihono_Bourbon_Valentine": {
+            "description": ["Toggle on if user owns Mihono Bourbon Valentine"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
@@ -208,6 +244,18 @@
         },
         "Rice_Shower_Halloween": {
             "description": ["Toggle on if user owns Rice Shower Halloween"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Sakura_Chiyono_O": {
+            "description": ["Toggle on if user owns Sakura Chiyono O"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "Satono_Diamond": {
+            "description": ["Toggle on if user owns Satono Diamond"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
@@ -266,8 +314,20 @@
             "default": false,
             "group": "Game Options"
         },
-        "Tokai_Teio_Anime": {
-            "description": ["Toggle on if user owns Tokai Teio Anime"],
+        "Tamamo_Cross": {
+            "description": ["Toggle on if user owns Tamamo Cross"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "TM_Opera_O": {
+            "description": ["Toggle on if user owns TM Opera O"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "TM_Opera_O_New_Year": {
+            "description": ["Toggle on if user owns TM Opera O New Year"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
@@ -278,14 +338,14 @@
             "default": false,
             "group": "Game Options"
         },
-        "Tosen_Jordan": {
-            "description": ["Toggle on if user owns Tosen Jordan"],
+        "Tokai_Teio_Anime": {
+            "description": ["Toggle on if user owns Tokai Teio Anime"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
         },
-        "TM_Opera_O": {
-            "description": ["Toggle on if user owns TM Opera O"],
+        "Tosen_Jordan": {
+            "description": ["Toggle on if user owns Tosen Jordan"],
             "type": "Toggle",
             "default": false,
             "group": "Game Options"

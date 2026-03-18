@@ -717,31 +717,31 @@
       "requires": ["Gold Ship"]
     },
     {
-      "name": "Gold Ship: Win Hopeful Stakes",
+      "name": "Gold Ship: Place 5th or better in the Hopeful Stakes",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
     },
     {
-      "name": "Gold Ship: Win Satsuki Sho",
+      "name": "Gold Ship: Place 5th or better in the Satsuki Sho",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
     },
     {
-      "name": "Gold Ship: Win Kikuka Sho",
+      "name": "Gold Ship: Place 3rd or better in the Kikuka Sho",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
     },
     {
-      "name": "Gold Ship: Win Arima Kinen (Classic)",
+      "name": "Gold Ship: Place 3rd or better in the Arima Kinen (Classic)",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
     },
     {
-      "name": "Gold Ship: Win Tenno Sho (Spring)",
+      "name": "Gold Ship: Place 3rd or better in the Tenno Sho (Spring)",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
@@ -754,6 +754,12 @@
     },
     {
       "name": "Gold Ship: Win Tenno Sho (Autumn)",
+      "region": "2* Expert Uma Races",
+      "category": ["Gold Ship Races"],
+      "requires": ["Gold Ship"]
+    },
+    {
+      "name": "Gold Ship: Win Arima Kinen (Senior)",
       "region": "2* Expert Uma Races",
       "category": ["Gold Ship Races"],
       "requires": ["Gold Ship"]
@@ -853,67 +859,6 @@
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
-    },
-    {
-      "name": "Curren Chan: Run in Make Debut",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Earn 3000 Fans",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Fillies' Revue",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Aoi Stakes",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Hakodate Sprint Stakes",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Sprinters Stakes (Classic)",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Ocean Stakes",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Takamatsunomiya Kinen",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Win Sprinters Stakes (Senior)",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"]
-    },
-    {
-      "name": "Curren Chan: Career Win",
-      "region": "3* Uma Races",
-      "category": ["Curren Chan", "Curren Chan Races"],
-      "requires": ["Curren Chan"],
-      "place_item": ["Curren Chan Career Win"]
     },
     {
       "name": "Special Week: Run in Make Debut",
@@ -1067,122 +1012,6 @@
       "category": ["Mejiro McQueen", "Mejiro McQueen Races"],
       "requires": ["Mejiro McQueen"],
       "place_item": ["Mejiro McQueen Career Win"]
-    },
-    {
-      "name": "Tokai Teio Anime: Run in Make Debut",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Wakagoma Stakes",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Satsuki Sho",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Japanese Derby",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Kikuka Sho",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Tenno Sho (Spring)",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Japan Cup",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Win Arima Kinen (Senior)",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"]
-    },
-    {
-      "name": "Tokai Teio Anime: Career Win",
-      "region": "3* Uma Races",
-      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
-      "requires": ["Tokai Teio Anime"],
-      "place_item": ["Tokai Teio Anime Career Win"]
-    },
-    {
-      "name": "Narita Taishin: Run in Make Debut",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Hopeful Stakes",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Satsuki Sho",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Japanese Derby",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Run in Kikuka Sho",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Nikkei Sho",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Tenno Sho (Spring)",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Tenno Sho (Autumn)",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Win Arima Kinen (Senior)",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"]
-    },
-    {
-      "name": "Narita Taishin: Career Win",
-      "region": "3* Uma Races",
-      "category": ["Narita Taishin", "Narita Taishin Races"],
-      "requires": ["Narita Taishin"],
-      "place_item": ["Narita Taishin Career Win"]
     },
     {
       "name": "Silence Suzuka: Run in Make Debut",
@@ -1702,6 +1531,183 @@
       "category": ["Mihono Bourbon", "Mihono Bourbon Races"],
       "requires": ["Mihono Bourbon"],
       "place_item": ["Mihono Bourbon Career Win"]
+    },
+    {
+      "name": "Tokai Teio Anime: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Wakagoma Stakes",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Win Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"]
+    },
+    {
+      "name": "Tokai Teio Anime: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Tokai Teio Anime", "Tokai Teio Anime Races"],
+      "requires": ["Tokai Teio Anime"],
+      "place_item": ["Tokai Teio Anime Career Win"]
+    },
+    {
+      "name": "Curren Chan: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Earn 3000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Fillies' Revue",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Aoi Stakes",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Hakodate Sprint Stakes",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Sprinters Stakes (Classic)",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Ocean Stakes",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Takamatsunomiya Kinen",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Win Sprinters Stakes (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"]
+    },
+    {
+      "name": "Curren Chan: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Curren Chan", "Curren Chan Races"],
+      "requires": ["Curren Chan"],
+      "place_item": ["Curren Chan Career Win"]
+    },
+    {
+      "name": "Narita Taishin: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Hopeful Stakes",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Run in Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Nikkei Sho",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Win Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"]
+    },
+    {
+      "name": "Narita Taishin: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Narita Taishin", "Narita Taishin Races"],
+      "requires": ["Narita Taishin"],
+      "place_item": ["Narita Taishin Career Win"]
     },
     {
       "name": "Biwa Hayahide: Run in Make Debut",
@@ -3485,35 +3491,686 @@
       "place_item": ["Fine Motion Career Win"]
     },
     {
-      "name": "Win Sprint URA Finals",
-      "category": ["Miscellaneous Race Goals"],
-      "requires": "(|Hishi Akebono| OR |Curren Chan| OR |Taiki Shuttle| OR |Sakura Bakushin O| OR |King Halo| OR |Maruzensky Summer| OR |Fuji Kiseki| OR |Maruzensky|) AND (|3* Uma Careers|)"
+      "name": "Tamamo Cross: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
     },
-{
+    {
+      "name": "Tamamo Cross: Earn 5000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win 4 G3 or Higher Races",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win the Hanshin Daishoten",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win the Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win the Takarazuka Kinen",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Win the Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"]
+    },
+    {
+      "name": "Tamamo Cross: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Tamamo Cross", "Tamamo Cross Races"],
+      "requires": ["Tamamo Cross"],
+      "place_item": ["Tamamo Cross Career Win"]
+    },
+    {
+      "name": "Haru Urara New Year: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Earn 5000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Earn 9000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Earn 12000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Win Negishi Stakes",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Win February Stakes",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Win Elm Stakes",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Win JBC Sprint",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Run in Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"]
+    },
+    {
+      "name": "Haru Urara New Year: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
+      "requires": ["Haru Urara New Year"],
+      "place_item": ["Haru Urara New Year Career Win"]
+    },
+    {
+      "name": "TM Opera O New Year: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Earn 5000 Fans",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Arima Kinen (Classic)",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Takarazuka Kinen",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Win Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"]
+    },
+    {
+      "name": "TM Opera O New Year: Career Win",
+      "region": "3* Uma Races",
+      "category": ["TM Opera O New Year", "TM Opera O New Year Races"],
+      "requires": ["TM Opera O New Year"],
+      "place_item": ["TM Opera O New Year Career Win"]
+    },
+    {
+      "name": "Sakura Chiyono O: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Asahi Hai Futurity Stakes",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Yasuda Kinen",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Win the Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"]
+    },
+    {
+      "name": "Sakura Chiyono O: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Sakura Chiyono O", "Sakura Chiyono O Races"],
+      "requires": ["Sakura Chiyono O"],
+      "place_item": ["Sakura Chiyono O Career Win"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Keisei Hai",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash", "Eishin Flash Races"],
+      "requires": ["Eishin Flash"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Run in Arima Kinen",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Osaka Hai",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Win Arima Kinen",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"]
+    },
+    {
+      "name": "Eishin Flash Valentine: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Eishin Flash Valentine", "Eishin Flash Valentine Races"],
+      "requires": ["Eishin Flash Valentine"],
+      "place_item": ["Eishin Flash Valentine Career Win"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Asahi Hai Futurity Stakes",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Spring Stakes",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Win Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"]
+    },
+    {
+      "name": "Mihono Bourbon Valentine: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Mihono Bourbon Valentine", "Mihono Bourbon Valentine Races"],
+      "requires": ["Mihono Bourbon Valentine"],
+      "place_item": ["Mihono Bourbon Valentine Career Win"]
+    },
+    {
+      "name": "Mejiro Arden: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Earn 6000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Aoba Sho",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Osaka Hai",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Takarazuka Kinen",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Mainichi Okan",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"]
+    },
+    {
+      "name": "Mejiro Arden: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Arden", "Mejiro Arden Races"],
+      "requires": ["Mejiro Ardan"],
+      "place_item": ["Mejiro Ardan Career Win"]
+    },
+    {
+      "name": "Admire Vega: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Hopeful Stakes",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Takarazuka Kinen",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Win the Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"]
+    },
+    {
+      "name": "Admire Vega: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Admire Vega", "Admire Vega Races"],
+      "requires": ["Admire Vega"],
+      "place_item": ["Admire Vega Career Win"]
+    },
+    {
+      "name": "Kitasan Black: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Earn 5000 Fans",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the St. Lite Kinen",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Arima Kinen",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Osaka Hai",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Takarazuka Kinen",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Japan Cup",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Win the Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"]
+    },
+    {
+      "name": "Kitasan Black: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Kitasan Black", "Kitasan Black Races"],
+      "requires": ["Kitasan Black"],
+      "place_item": ["Kitasan Black Career Win"]
+    },
+    {
+      "name": "Satono Diamond: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Arima Kinen (Classic)",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Osaka Hai",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Kyoto Daishoten",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Win the Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"]
+    },
+    {
+      "name": "Satono Diamond: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Satono Diamond", "Satono Diamond Races"],
+      "requires": ["Satono Diamond"],
+      "place_item": ["Satono Diamond Career Win"]
+    },
+    {
+      "name": "Win Sprint URA Finals",
+      "region": "URA Races",
+      "category": ["URA Races"],
+      "requires": "(|Hishi Akebono| OR |Curren Chan| OR |Taiki Shuttle| OR |Sakura Bakushin O| OR |King Halo| OR |Maruzensky Summer| OR |Fuji Kiseki| OR |Maruzensky|)"
+    },
+    {
       "name": "Win Mile URA Finals",
-      "category": ["Miscellaneous Race Goals"],
-      "requires": "(|Oguri Cap Christmas| OR |Mejiro Dober| OR |Gold City| OR |Agnes Digital| OR |Maruzensky Summer| OR |Gold City Festival| OR |Fuji Kiseki| OR |Grass Wonder Fantasy| OR |El Condor Pasa Fantasy| OR |Hishi Amazon| OR |Silence Suzuka| OR |Maruzensky| OR |Oguri Cap| OR |Vodka| OR |Daiwa Scarlet| OR |Taiki Shuttle| OR |Grass Wonder| OR |El Condor Pasa| OR |Kawakami Princess| OR |Hishi Akebono| OR |Air Groove Wedding| OR |Narita Brian| OR |Mihono Bourbon| OR |Air Groove| OR |Sakura Bakushin O| OR |King Halo|) AND (|3* Uma Careers|)"
+      "region": "URA Races",
+      "category": ["URA Races"],
+      "requires": "(|Oguri Cap Christmas| OR |Mejiro Dober| OR |Gold City| OR |Agnes Digital| OR |Maruzensky Summer| OR |Gold City Festival| OR |Fuji Kiseki| OR |Grass Wonder Fantasy| OR |El Condor Pasa Fantasy| OR |Hishi Amazon| OR |Sakura Chiyono O| OR |Silence Suzuka| OR |Maruzensky| OR |Mejiro Arden| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Vodka| OR |Daiwa Scarlet| OR |Taiki Shuttle| OR |Grass Wonder| OR |El Condor Pasa| OR |Kawakami Princess| OR |Hishi Akebono| OR |Air Groove Wedding| OR |Narita Brian| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Air Groove| OR |Sakura Bakushin O| OR |King Halo|)"
     },
     {
       "name": "Win Medium URA Finals",
-      "category": ["Miscellaneous Race Goals"],
-      "requires": "(|Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Eishin Flash| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Rice Shower| OR |Rice Shower Halloween| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|) AND (|3* Uma Careers|)"
+      "region": "URA Races",
+      "category": ["URA Races"],
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Long URA Finals",
-      "category": ["Miscellaneous Race Goals"],
-      "requires": "(|Biwa Hayahide| OR |Eishin Flash| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Rice Shower| OR |Rice Shower Halloween| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|) AND (|3* Uma Careers|)"
+      "region": "URA Races",
+      "category": ["URA Races"],
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Dirt URA Finals",
-      "category": ["Miscellaneous Race Goals"],
-      "requires": "(|Haru Urara| OR |Smart Falcon| OR |Taiki Shuttle| OR |El Condor Pasa| OR |Oguri Cap|) AND (|3* Uma Careers|)"
+      "region": "URA Races",
+      "category": ["URA Races"],
+      "requires": "(|Haru Urara| OR |Haru Urara New Year| OR |Smart Falcon| OR |Taiki Shuttle| OR |El Condor Pasa| OR |Oguri Cap| OR |Oguri Cap Christmas|)"
+    },
+    {
+      "name": "Win Sprint TS Climax",
+      "region": "TS Climax Races",
+      "category": ["TS Climax Races"],
+      "requires": "(|Hishi Akebono| OR |Curren Chan| OR |Taiki Shuttle| OR |Sakura Bakushin O| OR |King Halo| OR |Maruzensky Summer| OR |Fuji Kiseki| OR |Maruzensky|)"
+    },
+    {
+      "name": "Win Mile TS Climax",
+      "region": "TS Climax Races",
+      "category": ["TS Climax Races"],
+      "requires": "(|Oguri Cap Christmas| OR |Mejiro Dober| OR |Gold City| OR |Agnes Digital| OR |Maruzensky Summer| OR |Gold City Festival| OR |Fuji Kiseki| OR |Grass Wonder Fantasy| OR |El Condor Pasa Fantasy| OR |Hishi Amazon| OR |Sakura Chiyono O| OR |Silence Suzuka| OR |Maruzensky| OR |Mejiro Arden| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Vodka| OR |Daiwa Scarlet| OR |Taiki Shuttle| OR |Grass Wonder| OR |El Condor Pasa| OR |Kawakami Princess| OR |Hishi Akebono| OR |Air Groove Wedding| OR |Narita Brian| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Air Groove| OR |Sakura Bakushin O| OR |King Halo|)"
+    },
+    {
+      "name": "Win Medium TS Climax",
+      "region": "TS Climax Races",
+      "category": ["TS Climax Races"],
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+    },
+    {
+      "name": "Win Long TS Climax",
+      "region": "TS Climax Races",
+      "category": ["TS Climax Races"],
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+    },
+    {
+      "name": "Win Dirt TS Climax",
+      "region": "TS Climax Races",
+      "category": ["TS Climax Races"],
+      "requires": "(|Haru Urara| OR |Haru Urara New Year| OR |Smart Falcon| OR |Taiki Shuttle| OR |El Condor Pasa| OR |Oguri Cap| OR |Oguri Cap Christmas|)"
     },
     {
       "name": "Obtain Career Wins for all 3* Umas",
       "region": "3* Uma Races",
       "victory": true,
-      "requires": "{OptOne(|Agnes Digital Career Win|)} AND {OptOne(|Air Groove Wedding Career Win|)} AND {OptOne(|Biwa Hayahide Career Win|)} AND {OptOne(|Curren Chan Career Win|)} AND {OptOne(|Eishin Flash Career Win|)} AND {OptOne(|El Condor Pasa Fantasy Career Win|)} AND {OptOne(|Fine Motion Career Win|)} AND {OptOne(|Fuji Kiseki Career Win|)} AND {OptOne(|Gold City Career Win|)} AND {OptOne(|Gold City Festival Career Win|)} AND {OptOne(|Grass Wonder Fantasy Career Win|)} AND {OptOne(|Hishi Akebono Career Win|)} AND {OptOne(|Hishi Amazon Career Win|)} AND {OptOne(|Kawakami Princess Career Win|)} AND {OptOne(|Manhattan Cafe Career Win|)} AND {OptOne(|Maruzensky Career Win|)} AND {OptOne(|Maruzensky Summer Career Win|)} AND {OptOne(|Matikanefukukitaru Lucky Tidings Career Win|)} AND {OptOne(|Mayano Top Gun Wedding Career Win|)} AND {OptOne(|Meisho Doto Career Win|)} AND {OptOne(|Mejiro Dober Career Win|)} AND {OptOne(|Mejiro McQueen Career Win|)} AND {OptOne(|Mejiro McQueen Anime Career Win|)} AND {OptOne(|Mihono Bourbon Career Win|)} AND {OptOne(|Narita Brian Career Win|)} AND {OptOne(|Narita Taishin Career Win|)} AND {OptOne(|Oguri Cap Career Win|)} AND {OptOne(|Rice Shower Career Win|)} AND {OptOne(|Rice Shower Halloween Career Win|)} AND {OptOne(|Seiun Sky Career Win|)} AND {OptOne(|Silence Suzuka Career Win|)} AND {OptOne(|Smart Falcon Career Win|)} AND {OptOne(|Special Week Career Win|)} AND {OptOne(|Special Week Summer Career Win|)} AND {OptOne(|Super Creek Halloween Career Win|)} AND {OptOne(|Symboli Rudolf Career Win|)} AND {OptOne(|Symboli Rudolf Festival Career Win|)} AND {OptOne(|Taiki Shuttle Career Win|)} AND {OptOne(|Tokai Teio Career Win|)} AND {OptOne(|Tokai Teio Anime Career Win|)} AND {OptOne(|Tosen Jordan Career Win|)} AND {OptOne(|TM Opera O Career Win|)}"
+      "requires": "{OptOne(|Admire Vega Career Win|)} AND {OptOne(|Agnes Digital Career Win|)} AND {OptOne(|Air Groove Wedding Career Win|)} AND {OptOne(|Biwa Hayahide Career Win|)} AND {OptOne(|Curren Chan Career Win|)} AND {OptOne(|Eishin Flash Career Win|)} AND {OptOne(|Eishin Flash Valentine Career Win|)} AND {OptOne(|El Condor Pasa Fantasy Career Win|)} AND {OptOne(|Fine Motion Career Win|)} AND {OptOne(|Fuji Kiseki Career Win|)} AND {OptOne(|Gold City Career Win|)} AND {OptOne(|Gold City Festival Career Win|)} AND {OptOne(|Grass Wonder Fantasy Career Win|)} AND {OptOne(|Haru Urara New Year Career Win|)} AND {OptOne(|Hishi Akebono Career Win|)} AND {OptOne(|Hishi Amazon Career Win|)} AND {OptOne(|Kawakami Princess Career Win|)} AND {OptOne(|Kitasan Black Career Win|)} AND {OptOne(|Manhattan Cafe Career Win|)} AND {OptOne(|Maruzensky Career Win|)} AND {OptOne(|Maruzensky Summer Career Win|)} AND {OptOne(|Matikanefukukitaru Lucky Tidings Career Win|)} AND {OptOne(|Mayano Top Gun Wedding Career Win|)} AND {OptOne(|Meisho Doto Career Win|)} AND {OptOne(|Mejiro Arden Career Win|)} AND {OptOne(|Mejiro Dober Career Win|)} AND {OptOne(|Mejiro McQueen Career Win|)} AND {OptOne(|Mejiro McQueen Anime Career Win|)} AND {OptOne(|Mihono Bourbon Career Win|)} AND {OptOne(|Mihono Bourbon Valentine Career Win|)} AND {OptOne(|Narita Brian Career Win|)} AND {OptOne(|Narita Taishin Career Win|)} AND {OptOne(|Oguri Cap Career Win|)} AND {OptOne(|Rice Shower Career Win|)} AND {OptOne(|Rice Shower Halloween Career Win|)} AND {OptOne(|Sakura Chiyono O Career Win|)} AND {OptOne(|Satono Diamond Career Win|)} AND {OptOne(|Seiun Sky Career Win|)} AND {OptOne(|Silence Suzuka Career Win|)} AND {OptOne(|Smart Falcon Career Win|)} AND {OptOne(|Special Week Career Win|)} AND {OptOne(|Special Week Summer Career Win|)} AND {OptOne(|Super Creek Halloween Career Win|)} AND {OptOne(|Symboli Rudolf Career Win|)} AND {OptOne(|Symboli Rudolf Festival Career Win|)} AND {OptOne(|Taiki Shuttle Career Win|)} AND {OptOne(|Tamamo Cross Career Win|)} AND {OptOne(|Tokai Teio Career Win|)} AND {OptOne(|Tokai Teio Anime Career Win|)} AND {OptOne(|Tosen Jordan Career Win|)} AND {OptOne(|TM Opera O Career Win|)} AND {OptOne(|TM Opera O New Year Career Win|)}"
     }
   ]
 }

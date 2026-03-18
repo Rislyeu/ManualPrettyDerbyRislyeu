@@ -17,8 +17,16 @@
     "2* Expert Uma Races": {
       "connects_to": ["3* Uma Races"],
       "requires": "|@Umas 2* Expert:1| AND |2* Expert Uma Careers| AND |@SSR Support Cards:1|"
-      },
+    },
     "3* Uma Races": {
-      "requires": "|@Umas 3*:1| AND |3* Uma Careers| AND |@SSR Support Cards:2| AND |Unity Cup Scenario|"
+      "connects_to": ["URA Races"],
+      "requires": "|@Umas 3*:1| AND |3* Uma Careers| AND |@SSR Support Cards:2|"
+    },
+    "URA Races": {
+      "connects_to": ["TS Climax Races"],
+      "requires": "|Unity Cup Scenario|"
+    },
+    "TS Climax Races": {
+      "requires": "|Trackblazer Scenario|"
     }
 }

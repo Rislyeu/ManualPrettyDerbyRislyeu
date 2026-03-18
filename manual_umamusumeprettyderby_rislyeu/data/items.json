@@ -99,6 +99,12 @@
       "progression": true
     },
     {
+      "name": "Admire Vega",
+      "category": ["Umas 3*", "Admire Vega"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Agnes Digital",
       "category": ["Umas 3*", "Agnes Digital"],
       "count": 1,
@@ -131,6 +137,12 @@
     {
       "name": "Eishin Flash",
       "category": ["Umas 3*", "Eishin Flash"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Eishin Flash Valentine",
+      "category": ["Umas 3*", "Eishin Flash Valentine"],
       "count": 1,
       "progression": true
     },
@@ -171,6 +183,12 @@
       "progression": true
     },
     {
+      "name": "Haru Urara New Year",
+      "category": ["Umas 3*", "Haru Urara New Year"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Hishi Akebono",
       "category": ["Umas 3*", "Hishi Akebono"],
       "count": 1,
@@ -185,6 +203,12 @@
     {
       "name": "Kawakami Princess",
       "category": ["Umas 3*", "Kawakami Princess"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kitasan Black",
+      "category": ["Umas 3*", "Kitasan Black"],
       "count": 1,
       "progression": true
     },
@@ -225,6 +249,12 @@
       "progression": true
     },
     {
+      "name": "Mejiro Arden",
+      "category": ["Umas 3*", "Mejiro Arden"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Mejiro Dober",
       "category": ["Umas 3*", "Mejiro Dober"],
       "count": 1,
@@ -245,6 +275,12 @@
     {
       "name": "Mihono Bourbon",
       "category": ["Umas 3*", "Mihono Bourbon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mihono Bourbon Valentine",
+      "category": ["Umas 3*", "Mihono Bourbon Valentine"],
       "count": 1,
       "progression": true
     },
@@ -281,6 +317,18 @@
     {
       "name": "Rice Shower Halloween",
       "category": ["Umas 3*", "Rice Shower Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "category": ["Umas 3*", "Sakura Chiyono O"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Satono Diamond",
+      "category": ["Umas 3*", "Satono Diamond"],
       "count": 1,
       "progression": true
     },
@@ -339,6 +387,12 @@
       "progression": true
     },
     {
+      "name": "Tamamo Cross",
+      "category": ["Umas 3*", "Tamamo Cross"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Tokai Teio",
       "category": ["Umas 3*", "Tokai Teio"],
       "count": 1,
@@ -357,8 +411,20 @@
       "progression": true
     },
     {
+      "name": "TM Opera O New Year",
+      "category": ["Umas 3*", "TM Opera O New Year"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Tosen Jordan",
       "category": ["Umas 3*", "Tosen Jordan"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Admire Vega Career Win",
+      "category": ["Career Wins 3* Umas", "Admire Vega"],
       "count": 1,
       "progression": true
     },
@@ -399,6 +465,12 @@
       "progression": true
     },
     {
+      "name": "Eishin Flash Valentine Career Win",
+      "category": ["Career Wins 3* Umas", "Eishin Flash Valentine"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "El Condor Pasa Fantasy Career Win",
       "category": ["Career Wins 3* Umas", "El Condor Pasa Fantasy"],
       "count": 1,
@@ -435,6 +507,12 @@
       "progression": true
     },
     {
+      "name": "Haru Urara New Year Career Win",
+      "category": ["Career Wins 3* Umas", "Haru Urara New Year"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Hishi Akebono Career Win",
       "category": ["Career Wins 3* Umas", "Hishi Akebono"],
       "count": 1,
@@ -449,6 +527,12 @@
     {
       "name": "Kawakami Princess Career Win",
       "category": ["Career Wins 3* Umas", "Kawakami Princess"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Kitasan Black Career Win",
+      "category": ["Career Wins 3* Umas", "Kitasan Black"],
       "count": 1,
       "progression": true
     },
@@ -489,6 +573,12 @@
       "progression": true
     },
     {
+      "name": "Mejiro Arden Career Win",
+      "category": ["Career Wins 3* Umas", "Mejiro Arden"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Mejiro Dober Career Win",
       "category": ["Career Wins 3* Umas", "Mejiro Dober"],
       "count": 1,
@@ -509,6 +599,12 @@
     {
       "name": "Mihono Bourbon Career Win",
       "category": ["Career Wins 3* Umas", "Mihono Bourbon"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mihono Bourbon Valentine Career Win",
+      "category": ["Career Wins 3* Umas", "Mihono Bourbon Valentine"],
       "count": 1,
       "progression": true
     },
@@ -545,6 +641,18 @@
     {
       "name": "Rice Shower Halloween Career Win",
       "category": ["Career Wins 3* Umas", "Rice Shower Halloween"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Chiyono O Career Win",
+      "category": ["Career Wins 3* Umas", "Sakura Chiyono O"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Satono Diamond Career Win",
+      "category": ["Career Wins 3* Umas", "Satono Diamond"],
       "count": 1,
       "progression": true
     },
@@ -601,6 +709,24 @@
       "category": ["Career Wins 3* Umas", "Taiki Shuttle"],
       "count": 1,
       "progression": true
+    },    
+    {
+      "name": "Tamamo Cross Career Win",
+      "category": ["Career Wins 3* Umas", "Tamamo Cross"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "TM Opera O Career Win",
+      "category": ["Career Wins 3* Umas", "TM Opera O"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "TM Opera O New Year Career Win",
+      "category": ["Career Wins 3* Umas", "TM Opera O New Year"],
+      "count": 1,
+      "progression": true
     },
     {
       "name": "Tokai Teio Career Win",
@@ -617,12 +743,6 @@
     {
       "name": "Tosen Jordan Career Win",
       "category": ["Career Wins 3* Umas", "Tosen Jordan"],
-      "count": 1,
-      "progression": true
-    },
-    {
-      "name": "TM Opera O Career Win",
-      "category": ["Career Wins 3* Umas", "TM Opera O"],
       "count": 1,
       "progression": true
     },
@@ -664,6 +784,12 @@
     },
     {
       "name": "Unity Cup Scenario",
+      "category": ["Unlocked Scenario Choices"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Trackblazer Scenario",
       "category": ["Unlocked Scenario Choices"],
       "count": 1,
       "progression": true
@@ -1125,6 +1251,12 @@
       "filler": true
     },
     {
+      "name": "Curren Chan SR (Speed)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
       "name": "Eishin Flash SR (Speed)",
       "category": ["SR Support Cards"],
       "count": 1,
@@ -1168,6 +1300,12 @@
     },
     {
       "name": "Mayano Top Gun SR (Stamina)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Mejiro Ryan SR (Stamina)",
       "category": ["SR Support Cards"],
       "count": 1,
       "useful": true
@@ -1234,6 +1372,18 @@
     },
     {
       "name": "Nishino Flower SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Sakura Bakushin O SR (Power)",
+      "category": ["SR Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Admire Vega SR (Guts)",
       "category": ["SR Support Cards"],
       "count": 1,
       "useful": true
@@ -1371,7 +1521,19 @@
       "progression": true
     },
     {
+      "name": "Matikanefukukitaru SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Narita Brian SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Narita Top Road SSR (Speed)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
@@ -1413,6 +1575,12 @@
       "progression": true
     },
     {
+      "name": "Tosen Jordan SSR (Speed)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Twin Turbo SSR (Speed)",
       "category": ["SSR Support Cards"],
       "count": 1,
@@ -1432,6 +1600,12 @@
     },
     {
       "name": "Manhattan Cafe SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Meisho Doto SSR (Stamina)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
@@ -1498,6 +1672,18 @@
     },
     {
       "name": "Winning Ticket SSR (Stamina)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Admire Vega SSR (Power)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Agnes Digital SSR (Power)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
@@ -1611,6 +1797,12 @@
       "progression": true
     },
     {
+      "name": "Marvelous Sunday SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Matikanetannhauser SSR (Guts)",
       "category": ["SSR Support Cards"],
       "count": 1,
@@ -1624,6 +1816,12 @@
     },
     {
       "name": "Mejiro Ryan SSR (Guts)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sakura Bakushin O SSR (Guts)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
@@ -1689,6 +1887,12 @@
       "progression": true
     },
     {
+      "name": "Nishino Flower SSR (Wit)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Seiun Sky SSR (Wit)",
       "category": ["SSR Support Cards"],
       "count": 1,
@@ -1702,6 +1906,12 @@
     },
     {
       "name": "Riko Kashimoto SSR (Pal)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sasami Anshinzawa SSR (Pal)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true
