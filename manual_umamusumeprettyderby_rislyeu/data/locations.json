@@ -237,37 +237,37 @@
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Junior Cup",
+      "name": "Mejiro Ryan: Place 3rd or better in the Junior Cup",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Satsuki Sho",
+      "name": "Mejiro Ryan: Place 5th or better in the Satsuki Sho",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Japanese Derby",
+      "name": "Mejiro Ryan: Place 5th or better in the Japanese Derby",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Kikuka Sho",
+      "name": "Mejiro Ryan: Place 3rd or better in the Kikuka Sho",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Arima Kinen (Classic)",
+      "name": "Mejiro Ryan: Place 3rd or better in the Arima Kinen (Classic)",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
     },
     {
-      "name": "Mejiro Ryan: Win Tenno Sho (Spring)",
+      "name": "Mejiro Ryan: Place 3rd or better in the Tenno Sho (Spring)",
       "region": "1* Expert Uma Races",
       "category": ["Mejiro Ryan Races"],
       "requires": ["Mejiro Ryan"]
@@ -291,49 +291,49 @@
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Hopeful Stakes",
+      "name": "Winning Ticket: Place 5th or better in the Hopeful Stakes",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Yayoi Sho",
+      "name": "Winning Ticket: Place 5th or better in the Yayoi Sho",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Satsuki Sho",
+      "name": "Winning Ticket: Place 5th or better in the Satsuki Sho",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Japanese Derby",
+      "name": "Winning Ticket: Place 5th or better in the Japanese Derby",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Kikuka Sho",
+      "name": "Winning Ticket: Place 3rd or better in the Kikuka Sho",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Osaka Hai",
+      "name": "Winning Ticket: Place 3rd or better in the Osaka Hai",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Takarazuka Kinen (Senior)",
+      "name": "Winning Ticket: Place 3rd or better in the Takarazuka Kinen (Senior)",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
     },
     {
-      "name": "Winning Ticket: Win Arima Kinen (Senior)",
+      "name": "Winning Ticket: Win the Arima Kinen (Senior)",
       "region": "1* Expert Uma Races",
       "category": ["Winning Ticket Races"],
       "requires": ["Winning Ticket"]
@@ -345,43 +345,43 @@
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win 2nd Goal Race",
+      "name": "Matikanefukukitaru: Place 5th or better in the 2nd Goal Race",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win Japanese Derby",
+      "name": "Matikanefukukitaru: Place 5th or better in the Japanese Derby",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win Kikuka Sho",
+      "name": "Matikanefukukitaru: Place 3rd or better in the Kikuka Sho",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win Kinko Sho",
+      "name": "Matikanefukukitaru: Place 3rd or better in the Kinko Sho",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win Takarazuka Kinen (Senior)",
+      "name": "Matikanefukukitaru: Place 3rd or better in the Takarazuka Kinen (Senior)",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win 7th Goal Race",
+      "name": "Matikanefukukitaru: Place 2nd or better in the 7th Goal Race",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
     },
     {
-      "name": "Matikanefukukitaru: Win Arima Kinen (Senior)",
+      "name": "Matikanefukukitaru: Win the Arima Kinen (Senior)",
       "region": "1* Expert Uma Races",
       "category": ["Matikanefukukitaru Races"],
       "requires": ["Matikanefukukitaru"]
@@ -393,37 +393,37 @@
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Hopeful Stakes",
+      "name": "King Halo: Place 5th or better in the Hopeful Stakes",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Satsuki Sho",
+      "name": "King Halo: Place 5th or better in the Satsuki Sho",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Japanese Derby",
+      "name": "King Halo: Place 5th or better in the Japanese Derby",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Kikuka Sho",
+      "name": "King Halo: Run in the Kikuka Sho",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Takarazuka Kinen (Senior)",
+      "name": "King Halo: Win the Takamatsunomiya Kinen",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
     },
     {
-      "name": "King Halo: Win Yasuda Kinen",
+      "name": "King Halo: Place 3rd or better in the Yasuda Kinen",
       "region": "1* Expert Uma Races",
       "category": ["King Halo Races"],
       "requires": ["King Halo"]
@@ -663,49 +663,49 @@
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Tulip Sho",
+      "name": "Daiwa Scarlet: Place 5th or better in the Tulip Sho",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Oka Sho",
+      "name": "Daiwa Scarlet: Place 5th or better in the Oka Sho",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Japanese Oaks",
+      "name": "Daiwa Scarlet: Place 5th or better in the 3rd Goal Race",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Shuka Sho",
+      "name": "Daiwa Scarlet: Place 3rd or better in the Shuka Sho",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Elizabeth II Cup",
+      "name": "Daiwa Scarlet: Place 3rd or better in the Elizabeth II Cup",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Osaka Hai",
+      "name": "Daiwa Scarlet: Place 3rd or better in the Osaka Hai",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Tenno Sho (Autumn)",
+      "name": "Daiwa Scarlet: Win the Tenno Sho (Autumn)",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
     },
     {
-      "name": "Daiwa Scarlet: Win Arima Kinen (Senior)",
+      "name": "Daiwa Scarlet: Win the Arima Kinen (Senior)",
       "region": "2* Expert Uma Races",
       "category": ["Daiwa Scarlet Races"],
       "requires": ["Daiwa Scarlet"]
@@ -771,43 +771,43 @@
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Asahi Hai Futurity Stakes",
+      "name": "Grass Wonder: Place 5th or better in the Asahi Hai Futurity Stakes",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Japanese Derby",
+      "name": "Grass Wonder: Place 5th or better in the Japanese Derby",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Japan Cup",
+      "name": "Grass Wonder: Place 5th or better in the Japan Cup",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Arima Kinen (Classic)",
+      "name": "Grass Wonder: Place 3rd or better in the Arima Kinen (Classic)",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Takarazuka Kinen (Senior)",
+      "name": "Grass Wonder: Place 3rd or better in the Takarazuka Kinen (Senior)",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Mainichi Okan",
+      "name": "Grass Wonder: Win the Mainichi Okan",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
     },
     {
-      "name": "Grass Wonder: Win Arima Kinen (Senior)",
+      "name": "Grass Wonder: Win the Arima Kinen (Senior)",
       "region": "2* Expert Uma Races",
       "category": ["Grass Wonder Races"],
       "requires": ["Grass Wonder"]
@@ -819,46 +819,106 @@
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Sumire Stakes",
+      "name": "Super Creek: Place 3rd or better in the Sumire Stakes",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Kikuka Sho",
+      "name": "Super Creek: Place 3rd or better in the Kikuka Sho",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Arima Kinen (Classic)",
+      "name": "Super Creek: Place 3rd or better in the Arima Kinen (Classic)",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Osaka Hai",
+      "name": "Super Creek: Place 3rd or better in the Osaka Hai",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Tenno Sho (Spring)",
+      "name": "Super Creek: Place 3rd or better in the Tenno Sho (Spring)",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Tenno Sho (Autumn)",
+      "name": "Super Creek: Win the Tenno Sho (Autumn)",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
     },
     {
-      "name": "Super Creek: Win Arima Kinen (Senior)",
+      "name": "Super Creek: Win the Arima Kinen (Senior)",
       "region": "2* Expert Uma Races",
       "category": ["Super Creek Races"],
       "requires": ["Super Creek"]
+    },
+    {
+      "name": "Matikanetannhauser: Run in Make Debut",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 5th or better in 1 G1 Race",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 5th or better in the Satsuki Sho",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 5th or better in the Japanese Derby",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 3rd or better in the Kikuka Sho",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 3rd or better in the Diamond Stakes",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 3rd or better in the Tenno Sho (Spring)",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 3rd or better in the Takarazuka Kinen",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Place 3rd or better in the Japan Cup",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
+    },
+    {
+      "name": "Matikanetannhauser: Win the Arima Kinen (Senior)",
+      "region": "2* Expert Uma Races",
+      "category": ["Matikanetannhauser Races"],
+      "requires": ["Matikanetannhauser"]
     },
     {
       "name": "Special Week: Run in Make Debut",
@@ -4122,13 +4182,13 @@
       "name": "Win Medium URA Finals",
       "region": "URA Races",
       "category": ["URA Races"],
-      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Long URA Finals",
       "region": "URA Races",
       "category": ["URA Races"],
-      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Dirt URA Finals",
@@ -4152,13 +4212,13 @@
       "name": "Win Medium TS Climax",
       "region": "TS Climax Races",
       "category": ["TS Climax Races"],
-      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Long TS Climax",
       "region": "TS Climax Races",
       "category": ["TS Climax Races"],
-      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Dirt TS Climax",

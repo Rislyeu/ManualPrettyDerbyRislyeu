@@ -59,3 +59,7 @@ Fixes:
 	Changed 1* and 2* Umas to follow Race goals, 3* still require winning races to get items from locations.
 
 	Properly put requirements for owning either Fine Motion, Biwa Christmas or Oguri Christmas into the URA Race requirements for better logic.
+
+Changelog v0.2.1 I forgot Tannhauser edition
+
+	Added Matikanetannhauser and her race locations, and fixed some typos and race names for other 2*s.
