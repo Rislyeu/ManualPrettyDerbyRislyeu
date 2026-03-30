@@ -47,6 +47,12 @@ All items, categories, and options are ALPHABETICAL so please put them in the ri
     {
       "name": "Progressive Support Card Slot 6 (Pal)",
       "category": ["Unlocked Support Card Slots"],
-      "count": 3,
+      "count": 4,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot 7 (Group)",
+      "category": ["Unlocked Support Card Slots"],
+      "count": 1,
       "useful": true
     },
