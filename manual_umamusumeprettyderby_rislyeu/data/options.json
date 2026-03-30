@@ -182,6 +182,12 @@
             "default": false,
             "group": "Game Options"
         },
+        "Mejiro_Bright": {
+            "description": ["Toggle on if user owns Mejiro Bright"],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "Mejiro_Dober": {
             "description": ["Toggle on if user owns Mejiro Dober"],
             "type": "Toggle",

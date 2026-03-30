@@ -105,6 +105,10 @@
         "yaml_option": ["Mejiro_Arden"],
         "hidden": true
     },
+    "Mejiro Bright": {
+        "yaml_option": ["Mejiro_Bright"],
+        "hidden": true
+    },
     "Mejiro Dober": {
         "yaml_option": ["Mejiro_Dober"],
         "hidden": true

@@ -261,6 +261,12 @@
       "progression": true
     },
     {
+      "name": "Mejiro Bright",
+      "category": ["Umas 3*", "Mejiro Bright"],
+      "count": 1,
+      "progression": true
+    },
+    {
       "name": "Mejiro Dober",
       "category": ["Umas 3*", "Mejiro Dober"],
       "count": 1,
@@ -581,6 +587,12 @@
     {
       "name": "Mejiro Arden Career Win",
       "category": ["Career Wins 3* Umas", "Mejiro Arden"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Mejiro Bright Career Win",
+      "category": ["Career Wins 3* Umas", "Mejiro Bright"],
       "count": 1,
       "progression": true
     },
@@ -1954,6 +1966,12 @@
     },
     {
       "name": "Tazuna Hayakawa SSR (Pal)",
+      "category": ["SSR Support Cards"],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Team Sirius SSR (Group)",
       "category": ["SSR Support Cards"],
       "count": 1,
       "progression": true

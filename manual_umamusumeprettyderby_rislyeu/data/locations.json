@@ -3608,55 +3608,55 @@
     {
       "name": "Haru Urara New Year: Run in Make Debut",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Earn 5000 Fans",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Earn 9000 Fans",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Earn 12000 Fans",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Win Negishi Stakes",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Win February Stakes",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Win Elm Stakes",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Win JBC Sprint",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
       "name": "Haru Urara New Year: Run in Arima Kinen (Senior)",
       "region": "3* Uma Races",
-      "category": ["Haru Urara New Year Races"],
+      "category": ["Haru Urara New Year", "Haru Urara New Year Races"],
       "requires": ["Haru Urara New Year"]
     },
     {
@@ -4167,6 +4167,67 @@
       "place_item": ["Satono Diamond Career Win"]
     },
     {
+      "name": "Mejiro Bright: Run in Make Debut",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Hopeful Stakes",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Satsuki Sho",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Japanese Derby",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Kikuka Sho",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Slayers Stakes",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Tenno Sho (Spring)",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Tenno Sho (Autumn)",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Win the Arima Kinen (Senior)",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"]
+    },
+    {
+      "name": "Mejiro Bright: Career Win",
+      "region": "3* Uma Races",
+      "category": ["Mejiro Bright", "Mejiro Bright Races"],
+      "requires": ["Mejiro Bright"],
+      "place_item": ["Mejiro Bright Career Win"]
+    },
+    {
       "name": "Win Sprint URA Finals",
       "region": "URA Races",
       "category": ["URA Races"],
@@ -4182,13 +4243,13 @@
       "name": "Win Medium URA Finals",
       "region": "URA Races",
       "category": ["URA Races"],
-      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Bright| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Long URA Finals",
       "region": "URA Races",
       "category": ["URA Races"],
-      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Bright| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Dirt URA Finals",
@@ -4212,13 +4273,13 @@
       "name": "Win Medium TS Climax",
       "region": "TS Climax Races",
       "category": ["TS Climax Races"],
-      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Admire Vega| OR |Agnes Digital| OR |Air Groove Wedding| OR |Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Fuji Kiseki| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kawakami Princess| OR |Kitasan Black| OR |Manhattan Cafe| OR |Maruzensky| OR |Maruzensky Summer| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Arden| OR |Mejiro Bright| OR |Mejiro Dober| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Sakura Chiyono O| OR |Satono Diamond| OR |Seiun Sky| OR |Silence Suzuka| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Air Groove| OR |Mayano Top Gun| OR |Mejiro Ryan| OR |Gold Ship| OR |Vodka| OR |Daiwa Scarlet| OR |El Condor Pasa| OR |Matikanetannhauser| OR |Agnes Tachyon| OR |Winning Ticket| OR |Super Creek| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Long TS Climax",
       "region": "TS Climax Races",
       "category": ["TS Climax Races"],
-      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
+      "requires": "(|Biwa Hayahide| OR |Biwa Hayahide Christmas| OR |Eishin Flash| OR |Eishin Flash Valentine| OR |El Condor Pasa Fantasy| OR |Gold City| OR |Gold City Festival| OR |Grass Wonder Fantasy| OR |Hishi Amazon| OR |Kitasan Black| OR |Manhattan Cafe| OR |Matikanefukukitaru Lucky Tidings| OR |Mayano Top Gun Wedding| OR |Meisho Doto| OR |Mejiro Bright| OR |Mejiro McQueen| OR |Mejiro McQueen Anime| OR |Mihono Bourbon| OR |Mihono Bourbon Valentine| OR |Narita Brian| OR |Narita Taishin| OR |Oguri Cap| OR |Oguri Cap Christmas| OR |Rice Shower| OR |Rice Shower Halloween| OR |Satono Diamond| OR |Seiun Sky| OR |Special Week| OR |Special Week Summer| OR |Super Creek Halloween| OR |Symboli Rudolf| OR |Symboli Rudolf Festival| OR |Tamamo Cross| OR |Tokai Teio| OR |Tokai Teio Anime| OR |Tosen Jordan| OR |TM Opera O| OR |TM Opera O New Year| OR |Grass Wonder| OR |Mayano Top Gun| OR |Gold Ship| OR |Super Creek| OR |Matikanetannhauser| OR |Matikanefukukitaru| OR |Nice Nature|)"
     },
     {
       "name": "Win Dirt TS Climax",
@@ -4230,7 +4291,7 @@
       "name": "Obtain Career Wins for all 3* Umas",
       "region": "3* Uma Races",
       "victory": true,
-      "requires": "{OptOne(|Admire Vega Career Win|)} AND {OptOne(|Agnes Digital Career Win|)} AND {OptOne(|Air Groove Wedding Career Win|)} AND {OptOne(|Biwa Hayahide Career Win|)} AND {OptOne(|Curren Chan Career Win|)} AND {OptOne(|Eishin Flash Career Win|)} AND {OptOne(|Eishin Flash Valentine Career Win|)} AND {OptOne(|El Condor Pasa Fantasy Career Win|)} AND {OptOne(|Fine Motion Career Win|)} AND {OptOne(|Fuji Kiseki Career Win|)} AND {OptOne(|Gold City Career Win|)} AND {OptOne(|Gold City Festival Career Win|)} AND {OptOne(|Grass Wonder Fantasy Career Win|)} AND {OptOne(|Haru Urara New Year Career Win|)} AND {OptOne(|Hishi Akebono Career Win|)} AND {OptOne(|Hishi Amazon Career Win|)} AND {OptOne(|Kawakami Princess Career Win|)} AND {OptOne(|Kitasan Black Career Win|)} AND {OptOne(|Manhattan Cafe Career Win|)} AND {OptOne(|Maruzensky Career Win|)} AND {OptOne(|Maruzensky Summer Career Win|)} AND {OptOne(|Matikanefukukitaru Lucky Tidings Career Win|)} AND {OptOne(|Mayano Top Gun Wedding Career Win|)} AND {OptOne(|Meisho Doto Career Win|)} AND {OptOne(|Mejiro Arden Career Win|)} AND {OptOne(|Mejiro Dober Career Win|)} AND {OptOne(|Mejiro McQueen Career Win|)} AND {OptOne(|Mejiro McQueen Anime Career Win|)} AND {OptOne(|Mihono Bourbon Career Win|)} AND {OptOne(|Mihono Bourbon Valentine Career Win|)} AND {OptOne(|Narita Brian Career Win|)} AND {OptOne(|Narita Taishin Career Win|)} AND {OptOne(|Oguri Cap Career Win|)} AND {OptOne(|Rice Shower Career Win|)} AND {OptOne(|Rice Shower Halloween Career Win|)} AND {OptOne(|Sakura Chiyono O Career Win|)} AND {OptOne(|Satono Diamond Career Win|)} AND {OptOne(|Seiun Sky Career Win|)} AND {OptOne(|Silence Suzuka Career Win|)} AND {OptOne(|Smart Falcon Career Win|)} AND {OptOne(|Special Week Career Win|)} AND {OptOne(|Special Week Summer Career Win|)} AND {OptOne(|Super Creek Halloween Career Win|)} AND {OptOne(|Symboli Rudolf Career Win|)} AND {OptOne(|Symboli Rudolf Festival Career Win|)} AND {OptOne(|Taiki Shuttle Career Win|)} AND {OptOne(|Tamamo Cross Career Win|)} AND {OptOne(|Tokai Teio Career Win|)} AND {OptOne(|Tokai Teio Anime Career Win|)} AND {OptOne(|Tosen Jordan Career Win|)} AND {OptOne(|TM Opera O Career Win|)} AND {OptOne(|TM Opera O New Year Career Win|)}"
+      "requires": "{OptOne(|Admire Vega Career Win|)} AND {OptOne(|Agnes Digital Career Win|)} AND {OptOne(|Air Groove Wedding Career Win|)} AND {OptOne(|Biwa Hayahide Career Win|)} AND {OptOne(|Curren Chan Career Win|)} AND {OptOne(|Eishin Flash Career Win|)} AND {OptOne(|Eishin Flash Valentine Career Win|)} AND {OptOne(|El Condor Pasa Fantasy Career Win|)} AND {OptOne(|Fine Motion Career Win|)} AND {OptOne(|Fuji Kiseki Career Win|)} AND {OptOne(|Gold City Career Win|)} AND {OptOne(|Gold City Festival Career Win|)} AND {OptOne(|Grass Wonder Fantasy Career Win|)} AND {OptOne(|Haru Urara New Year Career Win|)} AND {OptOne(|Hishi Akebono Career Win|)} AND {OptOne(|Hishi Amazon Career Win|)} AND {OptOne(|Kawakami Princess Career Win|)} AND {OptOne(|Kitasan Black Career Win|)} AND {OptOne(|Manhattan Cafe Career Win|)} AND {OptOne(|Maruzensky Career Win|)} AND {OptOne(|Maruzensky Summer Career Win|)} AND {OptOne(|Matikanefukukitaru Lucky Tidings Career Win|)} AND {OptOne(|Mayano Top Gun Wedding Career Win|)} AND {OptOne(|Meisho Doto Career Win|)} AND {OptOne(|Mejiro Arden Career Win|)} AND {OptOne(|Mejiro Bright Career Win|)} AND {OptOne(|Mejiro Dober Career Win|)} AND {OptOne(|Mejiro McQueen Career Win|)} AND {OptOne(|Mejiro McQueen Anime Career Win|)} AND {OptOne(|Mihono Bourbon Career Win|)} AND {OptOne(|Mihono Bourbon Valentine Career Win|)} AND {OptOne(|Narita Brian Career Win|)} AND {OptOne(|Narita Taishin Career Win|)} AND {OptOne(|Oguri Cap Career Win|)} AND {OptOne(|Rice Shower Career Win|)} AND {OptOne(|Rice Shower Halloween Career Win|)} AND {OptOne(|Sakura Chiyono O Career Win|)} AND {OptOne(|Satono Diamond Career Win|)} AND {OptOne(|Seiun Sky Career Win|)} AND {OptOne(|Silence Suzuka Career Win|)} AND {OptOne(|Smart Falcon Career Win|)} AND {OptOne(|Special Week Career Win|)} AND {OptOne(|Special Week Summer Career Win|)} AND {OptOne(|Super Creek Halloween Career Win|)} AND {OptOne(|Symboli Rudolf Career Win|)} AND {OptOne(|Symboli Rudolf Festival Career Win|)} AND {OptOne(|Taiki Shuttle Career Win|)} AND {OptOne(|Tamamo Cross Career Win|)} AND {OptOne(|Tokai Teio Career Win|)} AND {OptOne(|Tokai Teio Anime Career Win|)} AND {OptOne(|Tosen Jordan Career Win|)} AND {OptOne(|TM Opera O Career Win|)} AND {OptOne(|TM Opera O New Year Career Win|)}"
     }
   ]
 }
