@@ -879,6 +879,12 @@
       "useful": true
     },
     {
+      "name": "Narita Top Road R (Speed)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "useful": true
+    },
+    {
       "name": "Narita Taishin R (Speed)",
       "category": ["R Support Cards"],
       "count": 1,
@@ -946,6 +952,12 @@
     },
     {
       "name": "Mayano Top Gun R (Stamina)",
+      "category": ["R Support Cards"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Mejiro Bright R (Stamina)",
       "category": ["R Support Cards"],
       "count": 1,
       "filler": true
@@ -1246,735 +1258,777 @@
     },
     {
       "name": "Symboli Rudolf R (Wit)",
-      "category": ["R Support Cards"],
+      "category": ["R Support Cards", "Support Cards (Pal/Group)", "R Support Cards (Wit)"],
       "count": 1,
       "filler": true
     },
     {
       "name": "Aoi Kiryuin R (Pal)",
-      "category": ["R Support Cards"],
+      "category": ["R Support Cards", "Support Cards (Pal/Group)", "R Support Cards (Pal/Group)"],
       "count": 1,
       "filler": true
     },
     {
       "name": "Riko Kashimoto R (Pal)",
-      "category": ["R Support Cards"],
+      "category": ["R Support Cards", "Support Cards (Pal/Group)", "R Support Cards (Pal/Group)"],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sasami Anshinzawa R (Pal)",
+      "category": ["R Support Cards", "Support Cards (Pal/Group)", "R Support Cards (Pal/Group)"],
       "count": 1,
       "filler": true
     },
     {
       "name": "Tazuna Hayakawa R (Pal)",
-      "category": ["R Support Cards"],
+      "category": ["R Support Cards", "Support Cards (Pal/Group)", "R Support Cards (Pal/Group)"],
       "count": 1,
       "filler": true
     },
     {
       "name": "Curren Chan SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Eishin Flash SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "King Halo SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Narita Taishin SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Shinko Windy SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Sweep Tosho SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Vodka SR (Speed)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Manhattan Cafe SR (Stamina)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mayano Top Gun SR (Stamina)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mejiro Ryan SR (Stamina)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Tosen Jordan SR (Stamina)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Zenno Rob Roy SR (Stamina)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Agnes Digital SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Biwa Hayahide SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Daitaku Helios SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Fine Motion SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Hishi Amazon SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Inari One SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mejiro Ryan SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mihono Bourbon SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Nishino Flower SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Sakura Bakushin O SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Special Week SR (Power)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Admire Vega SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Air Groove SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Meisho Doto SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Nice Nature SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Seeking the Pearl SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Sirius Symboli SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Tamamo Cross SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Yukino Bijin SR (Guts)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Agnes Tachyon SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Daiwa Scarlet SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Fuji Kiseki SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Ikuno Dictus SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Ines Fujin SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Marvelous Sunday SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Matikanefukukitaru SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mejiro Ardan SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Mejiro Dober SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Nice Nature SR (Wit)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Aoi Kiryuin SR (Pal)",
-      "category": ["SR Support Cards"],
+      "category": ["SR Support Cards", "Support Cards (Pal/Group)"],
       "count": 1,
       "useful": true
     },
     {
       "name": "Biko Pegasus SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Gold City SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Gold Ship SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Kawakami Princess SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Kitasan Black SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mayano Top Gun SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Matikanefukukitaru SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Narita Brian SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Narita Top Road SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Nishino Flower SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Sakura Bakushin O SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Silence Suzuka SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Special Week SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Sweep Tosho SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Tokai Teio SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Tosen Jordan SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Twin Turbo SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Zenno Rob Roy SSR (Speed)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Speed)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Gold Ship SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Manhattan Cafe SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Meisho Doto SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mejiro McQueen SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mejiro Bright SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Nakayama Festa SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Narita Brian SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Rice Shower SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Sakura Chiyono O SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Satono Diamond SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Seiun Sky SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Silence Suzuka SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Super Creek SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Tamamo Cross SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Winning Ticket SSR (Stamina)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Stamina)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Admire Vega SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Agnes Digital SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Bamboo Memory SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Daitaku Helios SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Daiwa Scarlet SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "El Condor Pasa SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "King Halo SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Marvelous Sunday SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Oguri Cap SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Rice Shower SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Smart Falcon SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Tamamo Cross SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Vodka SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Winning Ticket SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Yaeno Muteki SSR (Power)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Power)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Grass Wonder SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Haru Urara SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Hishi Akebono SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Ikuno Dictus SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Ines Fujin SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Marvelous Sunday SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Matikanetannhauser SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mejiro Palmer SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mejiro Ryan SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Sakura Bakushin O SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Special Week SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Winning Ticket SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Yukino Bijin SSR (Guts)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Guts)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Air Shakur SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Curren Chan SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Fine Motion SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mejiro Dober SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Mihono Bourbon SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Narita Taishin SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Nice Nature SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Nishino Flower SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Satono Diamond SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Seiun Sky SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Yukino Bijin SSR (Wit)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Wit)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Riko Kashimoto SSR (Pal)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "Support Cards (Pal/Group)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Sasami Anshinzawa SSR (Pal)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "SSR Support Cards (Pal/Group)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Tazuna Hayakawa SSR (Pal)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "SSR Support Cards (Pal/Group)"],
       "count": 1,
       "progression": true
     },
     {
       "name": "Team Sirius SSR (Group)",
-      "category": ["SSR Support Cards"],
+      "category": ["SSR Support Cards", "SSR Support Cards (Pal/Group)"],
       "count": 1,
       "progression": true
+    },
+    {
+      "name": "Progressive Support Card Slot A (Speed)",
+      "category": ["Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot B (Stamina)",
+      "category": ["Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot C (Power)",
+      "category": ["Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot D (Guts)",
+      "category": ["Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot E (Wit)",
+      "category": ["Support Card Slots"],
+      "count": 6,
+      "useful": true
+    },
+    {
+      "name": "Progressive Support Card Slot F (Pal/Group)",
+      "category": ["Support Card Slots"],
+      "count": 5,
+      "useful": true
     }
 ]
 }

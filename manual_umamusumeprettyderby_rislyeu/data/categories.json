@@ -220,5 +220,32 @@
     "Tosen Jordan": {
         "yaml_option": ["Tosen_Jordan"],
         "hidden": true
+    },
+    "R Support Cards": {
+        "hidden": true
+    },
+    "SR Support Cards": {
+        "hidden": true
+    },
+    "SSR Support Cards": {
+        "hidden": true
+    },
+    "R Support Cards (Speed)": {
+        "hidden": true
+    },
+    "R Support Cards (Stamina)": {
+        "hidden": true
+    },
+    "R Support Cards (Power)": {
+        "hidden": true
+    },
+    "R Support Cards (Guts)": {
+        "hidden": true
+    },
+    "R Support Cards (Wit)": {
+        "hidden": true
+    },
+    "R Support Cards (Pal/Group)": {
+        "hidden": true
     }
 }
